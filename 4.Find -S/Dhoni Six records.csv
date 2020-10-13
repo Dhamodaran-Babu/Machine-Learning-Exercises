@@ -1,0 +1,11 @@
+Team,Batting,Over,Bowler,Run rate,Pitch,Six
+IND,First,Middle,Spin,High,Dry,No
+CSK,Second,Death,Seam,High,Green,Yes
+IND,First,Middle,Seam,Low,Dry,No
+CSK,First,Middle,Spin,Low,Green,No
+IND,Second,Death,Seam,Low,Dry,Yes
+CSk,First,Death,Spin,High,Dry,Yes
+IND,Second,Death,spin,Low,Green,Yes
+CSk,First,Death,Seam,High,Dry,Yes
+IND,First,Middle,Spin,Low,Dry,No
+IND,Second,Death,Seam,High,Green,Yes
